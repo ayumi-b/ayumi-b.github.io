@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Born in Japan but raised in the southern Appalachian Mountains, I never left Nashville once I came to this town for college.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+A huge fan of Paul Simon, my 10-year-old cat is named Simon, and his 1-year-old brother (in that they're of the same species) is Sunny (name inspired by 'The Obvious Child').  Both were adopted from Nashville Humane Association.  Oh, I also have a husband, but he is not from the humane society.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+
