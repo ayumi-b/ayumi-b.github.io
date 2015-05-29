@@ -11,7 +11,8 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 30px;
+    font-weight: bold;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -167,6 +168,8 @@
 
 .page-heading {
     font-size: 20px;
+    display: block;
+    float: center;
 }
 
 .post-list {

@@ -149,6 +149,19 @@ pre {
 }
 
 
+body {
+    background-color: #F3843E;
+}
+
+.page-content .wrapper {
+    background-color: white;
+    padding: $spacing-unit;
+}
+
+.site-footer, .site-header {
+    background-color: #FF9900;
+}
+
 
 /**
  * Wrapper
