@@ -124,6 +124,26 @@
   }
 }
 
+.segments#main {
+    background-color: #464646;
+
+    img {
+       width: 70%;  
+       height: 500px;
+       clear: left;
+
+    }
+
+    .words {
+        float: right;
+        color: white;
+        margin-top: 200px;
+
+    }
+}
+
+
+
 
 .segments#about {
     min-height: 300px;
@@ -160,14 +180,6 @@
 
 }
 
-.segments#main {
-    background-image: url(images/nyc.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #464646;
-}
 
 .segments#projects {
     background-color: #D8C0A8;
