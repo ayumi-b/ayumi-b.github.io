@@ -7,9 +7,12 @@
 
   h2 {
       text-align: center;
-
   }
 }
+
+/**
+ * MAIN TOP
+ */
 
 .segments#main {
     background-color: #464646;
@@ -47,7 +50,9 @@
     }
 }
 
-
+/**
+ * ABOUT
+ */
 
 
 .segments#about {
@@ -71,7 +76,6 @@
     // background-color: lightgray;
     text-align: center;
     margin-left: 300;
-    padding: 2%;
     max-width: 100%;
     margin-right: 300;
     margin-top: 0;
@@ -88,9 +92,14 @@
 
 }
 
+/**
+ * SKILLS
+ */
+
 
 .segments#skills {
-    padding-top: 7%;
+    padding-top: 9%;
+    padding-bottom: 9%;
 
 
     .container {
@@ -120,24 +129,16 @@
         width: 100%;
        }
     }
-
-
 }
 
-
-.segments#etc {
-  background-color: #d5cec4;
-  text-align: center;
-  font-family: 'Alegreya Sans SC';
-}
-
-
-
-
-
+/**
+ * PROJECTS
+ */
 
 .segments#projects {
   background-color: #D8C0A8;
+  padding-top: 9%;
+  padding-bottom: 9%;
 
 
     .container {
@@ -168,9 +169,25 @@
         width: 100%;
        }
     }
-
-
 }
+
+/**
+ * ETC
+ */
+
+.segments#etc {
+  background-color: #d5cec4;
+  text-align: center;
+  font-family: 'Alegreya Sans SC';
+  padding-top: 9%;
+  padding-bottom: 9%;
+}
+
+
+
+
+
+
 
 
 
