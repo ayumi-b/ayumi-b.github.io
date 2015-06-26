@@ -31,7 +31,7 @@
 }
 
 .site-title {
-    font-size: 30px;
+    font-size: 2.7em;
     font-weight: bold;
     line-height: 56px;
     letter-spacing: 3px;
@@ -46,6 +46,7 @@
 .site-nav {
     float: center;
     line-height: 36px;
+    font-size: 1.5em;
 
     .menu-icon {
         display: none;
@@ -59,7 +60,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 110%;
         }
     }
 
