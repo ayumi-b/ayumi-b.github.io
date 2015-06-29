@@ -21,13 +21,14 @@
     font-size: 1.3em;
 
     img {
-       width: 70%;  
+       max-width: 70%;  
        clear: left;
        opacity: 0.8;
 
     }
 
     .words {
+        max-width: 30%;
         float: right;
         font-size: 1.4em;
         color: white;
